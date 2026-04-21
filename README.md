@@ -1,41 +1,74 @@
-👋 Hi, I'm Sedin
-🚀 Python Automation Engineer | Web Scraping • APIs • Data Pipelines
-I design and build custom Python automation systems that eliminate repetitive manual work and turn messy data into structured, usable outputs.
-From web scraping and API integrations to Excel automation and full workflow systems — I build tools that save time and scale operations.
-🔧 What I Do
-Web Scraping & Data Extraction (Selenium, Playwright, BeautifulSoup)
-REST API Integrations
-Excel & CSV Automation (Pandas-based systems)
-Workflow & Process Automation
-Custom Python Tools (GUI & Desktop Apps)
-Data Cleaning & Transformation Pipelines
-Trading & Market Data Analyzers
+Hi, I'm Sedin 👋
+
+🚀 Full-Stack Automation Engineer building practical systems that reduce manual work, structure messy data, and improve how businesses operate.
+
+I design and build automation tools, backend systems, dashboards, and data-driven applications.
+
+🔧 What I Build
+
+- Python automation systems
+- FastAPI backends and APIs
+- Frontend dashboards and data tools
+- Web scraping and extraction systems
+- Excel/XLSX automation
+- Business intelligence systems
+- Custom desktop automation tools
+- Workflow automation solutions
+
 🛠 Tech Stack
-Languages & Core
-Python
-SQL
-Automation & Data
-Pandas
-Selenium
-Playwright
-BeautifulSoup
+
+Languages
+Python • JavaScript • SQL
+
 Backend & APIs
-FastAPI
-REST APIs
-OpenAI API
+FastAPI • REST APIs
+
+Automation & Data
+Pandas • OpenPyXL • Playwright • Selenium • BeautifulSoup
+
 Databases
-SQLite
-PostgreSQL
+PostgreSQL • SQLite
+
+Specialized
+ccxt
+
+Tools
+Git
+
 📌 Featured Projects
+
+🔹 E-Commerce Revenue Intelligence System
+
+Built analytics logic for identifying profit leakage, pricing inefficiencies, low-margin products, inventory risks, and revenue opportunities across $3.8M+ business data.
+
+🔹 Sports Betting Intelligence Dashboard
+
+Full-stack data dashboard for analysis, intelligence, and monitoring.
+
+🔹 Instagram Automation System
+
+Advanced Python automation system using device control, structured outputs, and workflow automation.
+
+🔹 Binance Grid Trading Bot
+
+Python automation bot using exchange APIs and trading logic for SPOT-only strategy monitoring and execution.
+
+🔹 FastAPI Export & Data Processing API
+
+Backend project focused on structured exports, automation, and data workflows.
+
 🔹 Excel Cleaner Pro
-A powerful Python-based data cleaning tool that processes and standardizes messy Excel files automatically.
-🔹 Custom GUI Automation App
-Desktop-based automation tool built with Python to handle structured data workflows and repetitive tasks.
-🔹 Web Scraping & Data Extraction Systems
-Custom-built scraping systems with authentication handling, structured export, and automation-ready outputs.
+
+Automation tool for cleaning, structuring, and standardizing Excel data.
+
 🎯 What You Can Expect
-Clean, well-structured Python code
-Clear documentation
-Fast communication
-Solutions built for real business use
-If you're looking to automate data workflows or build a custom Python system — let's connect.
+
+- Clean architecture
+- Practical engineering
+- Real business-focused solutions
+- Clear communication
+- Systems built for real-world use
+
+🤝 Connect
+
+If you're interested in automation, data systems, or workflow engineering — let's connect.
