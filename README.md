@@ -1,74 +1,50 @@
 Hi, I'm Sedin 👋
+Python Automation Specialist | AI & ETL Pipelines
+I eliminate manual admin work by building one-command systems that turn messy data into structured results.
 
-🚀 Full-Stack Automation Engineer building practical systems that reduce manual work, structure messy data, and improve how businesses operate.
+🚀 What I Build
+📊 ETL Pipelines: Building robust systems to extract, transform, and load high-volume data (3M+ records) safely and reliably.
 
-I design and build automation tools, backend systems, dashboards, and data-driven applications.
+🤖 AI Workflow Automation: Integrating AI models into daily operations to automate decision-making and content generation.
 
-🔧 What I Build
+⚡ "One-Command" Systems: Replacing hours of manual clicking with single-script solutions that handle everything from web scraping to final reporting.
 
-- Python automation systems
-- FastAPI backends and APIs
-- Frontend dashboards and data tools
-- Web scraping and extraction systems
-- Excel/XLSX automation
-- Business intelligence systems
-- Custom desktop automation tools
-- Workflow automation solutions
+Backend & APIs: Developing resilient FastAPI backends and REST integrations for production-ready data workflows.
 
 🛠 Tech Stack
+Languages: Python • SQL • JavaScript
 
-Languages
-Python • JavaScript • SQL
+Backend & APIs: FastAPI • REST APIs • Apps Script
 
-Backend & APIs
-FastAPI • REST APIs
+Automation & ETL: Pandas • Playwright • Selenium • BeautifulSoup
 
-Automation & Data
-Pandas • OpenPyXL • Playwright • Selenium • BeautifulSoup
+Databases: PostgreSQL • SQLite
 
-Databases
-PostgreSQL • SQLite
-
-Specialized
-ccxt
-
-Tools
-Git
+Tools: Git • Linux • Cursor
 
 📌 Featured Projects
+🔹 E-Commerce Revenue Intelligence System (ETL Focus)
+Processed $3.8M+ in business data to identify profit leakage and inventory risks using large-scale automation workflows.
 
-🔹 E-Commerce Revenue Intelligence System
+🔹 Instagram Data Extraction & Automation
+Advanced Python system using device control (ADB) and structured outputs for reliable workflow automation.
 
-Built analytics logic for identifying profit leakage, pricing inefficiencies, low-margin products, inventory risks, and revenue opportunities across $3.8M+ business data.
-
-🔹 Sports Betting Intelligence Dashboard
-
-Full-stack data dashboard for analysis, intelligence, and monitoring.
-
-🔹 Instagram Automation System
-
-Advanced Python automation system using device control, structured outputs, and workflow automation.
-
-🔹 Binance Grid Trading Bot
-
-Python automation bot using exchange APIs and trading logic for SPOT-only strategy monitoring and execution.
-
-🔹 FastAPI Export & Data Processing API
-
-Backend project focused on structured exports, automation, and data workflows.
+🔹 BidPilot AI — Freelancer Automation Toolkit
+SaaS-style automation assistant with a credit-based usage model and AI-backed backend.
 
 🔹 Excel Cleaner Pro
+An automation tool for cleaning, structuring, and standardizing messy operational workbooks without manual rework.
 
-Automation tool for cleaning, structuring, and standardizing Excel data.
+🎯 Engineering Standards
+Clean Architecture: Focus on maintainable and resilient code.
 
-🎯 What You Can Expect
+Efficiency First: Systems built to work for the client, not to drag out billable hours.
 
-- Clean architecture
-- Practical engineering
-- Real business-focused solutions
-- Clear communication
-- Systems built for real-world use
+Practical Engineering: Real-world solutions for complex business problems.
 
-🤝 Connect
+🤝 Let's Connect
+Ready to reclaim your time?
+If you have a manual bottleneck, send me a message describing your problem. I will analyze your workflow and provide a consultation on the best automation strategy.
 
-If you're interested in automation, data systems, or workflow engineering — let's connect.
+🔗 LinkedIn: linkedin.com/in/sedin-sehic-1134253a8
+📧 Email: sedinsehic81@gmail.com
