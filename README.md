@@ -1,6 +1,9 @@
-Hi, I'm Sedin 👋
-Python Automation Specialist | AI & ETL Pipelines
-Also building defensive Python + Linux tools (log analysis, file integrity).
+Hi, I'm Sedin 👋  
+Python Automation Specialist | AI & ETL Pipelines  
+
+Also building **defensive Python + Linux tools** in public: log analysis and file integrity.
+
+I eliminate manual admin work by building one-command systems that turn messy data into structured results.
 
 🚀 What I Build
 📊 ETL Pipelines: Building robust systems to extract, transform, and load high-volume data (3M+ records) safely and reliably.
